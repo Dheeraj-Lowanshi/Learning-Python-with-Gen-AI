@@ -1,0 +1,5 @@
+
+
+is_even=lambda n:n%2==0
+print(is_even(10))
+print(is_even(9))
